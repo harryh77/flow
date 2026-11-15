@@ -1,6 +1,6 @@
 {
-  "name": "부임 흐름도",
-  "short_name": "흐름도",
+  "name": "시설관리",
+  "short_name": "시설관리",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
